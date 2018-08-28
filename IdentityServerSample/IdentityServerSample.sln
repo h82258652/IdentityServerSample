@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientCredentialApi", "Clie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartyDemo", "ThirdPartyDemo\ThirdPartyDemo.csproj", "{0B1BD676-8D67-48AE-ACE8-B0C04719E26B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PwdClient", "PwdClient\PwdClient.csproj", "{E22751AA-5B6E-4053-9421-B3623206752A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0B1BD676-8D67-48AE-ACE8-B0C04719E26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B1BD676-8D67-48AE-ACE8-B0C04719E26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B1BD676-8D67-48AE-ACE8-B0C04719E26B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22751AA-5B6E-4053-9421-B3623206752A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22751AA-5B6E-4053-9421-B3623206752A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22751AA-5B6E-4053-9421-B3623206752A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22751AA-5B6E-4053-9421-B3623206752A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
